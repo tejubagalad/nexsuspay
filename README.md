@@ -1,6 +1,6 @@
 # Nexus Pay 💸
 
-![Nexus Pay Logo](https://raw.githubusercontent.com/user-attachments/assets/b839d33b-741a-4d37-8149-6f1766a2c20a)
+![Nexus Pay Logo](./assets/1.png)
 
 Nexus Pay is a web-based payment application that simulates core banking functionalities. It allows users to manage their accounts, add beneficiaries, and securely transfer funds to other users on the platform. The application is built with **React** and uses **Google Firebase** for its backend services, including authentication and the Firestore database.
 
